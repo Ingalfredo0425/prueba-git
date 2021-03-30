@@ -1,1 +1,3 @@
 Informacion del archivo B
+modifique la rama B
+finalizo este proyecto
